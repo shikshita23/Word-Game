@@ -1,5 +1,5 @@
 import './Dashboard.css'
-import Card from './card'
+import Card from './Card'
 function Dashboard(){
     return(
         <>
