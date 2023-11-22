@@ -1,0 +1,43 @@
+.gameBox{
+    margin: auto;
+    height: 260px;
+    border-radius: 20px;
+    width: 385px;
+    margin-top: 200px;
+}
+li{
+    list-style: none;
+    font-size: 25px;
+}
+
+button{
+    font-size: 18px;
+}
+.questionSection{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 20px 20px 0px 0px;
+    height: 150px;
+    background-color: #D6E0EF;
+}
+.optionSection
+{
+    padding-top: 40px;
+    padding-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 90px;
+    background-color: #B6BDC8;
+    border-radius: 0px 0px 20px 20px;
+}
+button{
+    margin-right: 25px;
+}
+.done{
+    margin-top: 50px;
+}
+.done button{
+    width: 170px;
+    margin-left: 100px;
+}

@@ -1,0 +1,29 @@
+.scoreBoard{
+    margin: auto;
+    height: 260px;
+    border-radius: 20px;
+    width: 385px;
+    margin-top: 200px;
+    
+}
+.scoreTitle{
+    padding-top: 70px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 20px 20px 0px 0px;
+    height: 70px;
+    background-color: #D6E0EF;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.score{
+    padding-top: 50px;
+    padding-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 150px;
+    background-color: #B6BDC8;
+    border-radius: 0px 0px 20px 20px;
+    font-size: 23px;
+}
