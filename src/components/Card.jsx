@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Question from "./Questions";
 import './Card.css'
-import Result from "./result";
+import Result from "./Result";
 function Card (){
     const [ques,setQues]=useState(0);
     const [clickedOption, setClickedOption]=useState(0);
